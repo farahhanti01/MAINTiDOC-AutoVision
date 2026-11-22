@@ -312,7 +312,7 @@ La démonstration finale devra illustrer :
 
 Projet réalisé par :
 
-**Farah Hanti**  
+**Farah HANTI**  
 **MASBAH Ahmed**
 
 La répartition détaillée des responsabilités figure dans le plan de développement.
